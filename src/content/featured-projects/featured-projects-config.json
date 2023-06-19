@@ -1,27 +1,21 @@
 [
     {
         "id": "featured-project-trackcta",
-        "title": "trackCTA",
-        "year": "Dec 2021 - Present",
-        "location": "Chicago",
-        "demo": "https://www.trackcta.com/",
-        "github": "https://github.com/hrishikeshpaul/trackcta",
-        "tags": ["React", "TypeScript", "NodeJS", "Three.js", "GCP", "CI/CD", "Shell"],
-        "description": "An internationalized web app to track and predict Chicago Transit Authority (CTA) busses and trains.",
-        "image": "/assets/featured-projects/trackcta.webp",
-        "jpg": "/assets/featured-projects/trackcta.jpeg"
+        "title": "Jakroo",
+        "demo": "https://www.jakroo.com/",
+        "tags": ["React", "TypeScript", "NodeJS", "Three.js", "AWS", "CI/CD"],
+        "description": "Jakroo's products are designed for athletes of all levels, from beginners to professionals, and are made using high-quality materials and manufacturing processes.",
+        "image": "/assets/featured-projects/jakroo.webp",
+        "jpg": "/assets/featured-projects/jakroo.jpeg"
     },
     {
         "id": "featured-project-asctb-reporter",
-        "title": "ASCT+B Reporter",
-        "year": "Jun 2020 - Jun 2021",
-        "location": "Indiana University",
-        "demo": "https://hubmapconsortium.github.io/ccf-asct-reporter/",
-        "github": "https://github.com/hrishikeshpaul/ccf-asct-reporter",
+        "title": "Beycome",
+        "demo": "https://www.beycome.com/",
         "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
-        "description": "A collaboration with the NIH to build visualization tool to envision large biomedical datasets for researchers, doctors and experts.",
+        "description": "Beycome is an online real estate platform that allows homeowners to sell or rent their properties without the assistance of a traditional real estate agent.",
         "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
-        "image": "/assets/featured-projects/asctb.webp",
-        "jpg": "/assets/featured-projects/asctb.jpeg"
+        "image": "/assets/featured-projects/beycome.webp",
+        "jpg": "/assets/featured-projects/beycome.jpeg"
     }
 ]

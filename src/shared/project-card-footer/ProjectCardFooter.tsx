@@ -74,13 +74,11 @@ export const LiveDemo: FC<LiveDemoProps> = ({ demo, display }) => {
     ) : null;
 };
 
-export const ProjectCardFooter: FC<Props> = ({ readMore, github, demo }) => {
+export const ProjectCardFooter: FC<Props> = ({ demo }) => {
     return (
-        <Flex justifyContent={readMore ? "space-between" : "flex-end"} alignItems="center" pt="8">
-            <ReadMore readMore={readMore} />
-            <Flex gap="4" justifyContent="space-between" alignItems="center" display={demo || github ? "flex" : "none"}>
+        <Flex justifyContent={"flex-end"} alignItems="center" pt="8">
+            <Flex gap="4" justifyContent="space-between" alignItems="center" display={demo ? "flex" : "none"}>
                 <LiveDemo demo={demo} />
-                <GitHubButton github={github} />
             </Flex>
         </Flex>
     );
