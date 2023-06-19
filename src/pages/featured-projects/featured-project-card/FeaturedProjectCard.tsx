@@ -11,8 +11,6 @@ export enum ImagePosition {
 interface Props {
     id: string;
     title: string;
-    year: string;
-    location: string;
     demo?: string;
     github?: string;
     tags: string[];
@@ -38,25 +36,12 @@ const ImagePositionPaddingLeftMapper: Record<ImagePosition, string> = {
     [ImagePosition.Left]: "8",
 };
 
-export const FeaturedProjectCard: FC<Props> = ({
-    id,
-    title,
-    demo,
-    github,
-    tags,
-    description,
-    readMore,
-    image,
-    imagePosition,
-    location,
-    year,
-    jpg,
-}) => {
+export const FeaturedProjectCard: FC<Props> = ({ id, title, demo, tags, description, image, imagePosition, jpg }) => {
     return (
         <Flex
             justifyContent="space-between"
             id="featured-project-card"
-            py={{ base: "12", md: "12", lg: '28' }}
+            py={{ base: "12", md: "12", lg: "28" }}
             direction={{ base: "column-reverse", lg: ImagePositionLayoutMapper[imagePosition] }}
         >
             <Flex
@@ -71,17 +56,6 @@ export const FeaturedProjectCard: FC<Props> = ({
                     <Heading data-aos="fade-down" data-aos-offset="200" fontSize="4xl" lineHeight="1">
                         {title}
                     </Heading>
-                    <Text
-                        pt="2"
-                        fontSize="sm"
-                        fontWeight="600"
-                        opacity="0.6"
-                        data-aos="fade"
-                        data-aos-delay="100"
-                        data-aos-offset="200"
-                    >
-                        {year} • {location}
-                    </Text>
 
                     <Box
                         py="4"
@@ -108,7 +82,7 @@ export const FeaturedProjectCard: FC<Props> = ({
                     <Tags tags={tags} id={id} />
                 </Box>
 
-                <ProjectCardFooter readMore={readMore} github={github} demo={demo} />
+                <ProjectCardFooter demo={demo} />
             </Flex>
 
             <Box
