@@ -1,10 +1,10 @@
-Welcome 👋 I'm a _Frontend Software Engineer_ at [Reputation](https://reputation.com/) based out of Chicago, Illinois. I recently graduated from Indiana University with a Masters degree in Computer Science and I'm passionate about **Software Development**, **UX Design** and **Artificial Intelligence**.
+I'm an 👋 experienced senior fullstack engineer with over 7 years of expertise in designing, developing, and maintaining web applications. Proficient in a variety of programming languages including **React**, **Typescript**, **AWS** and skilled in both front-end and back-end development.Passionate about staying up-to-date with emerging technologies and applying them to solve complex problems. Strong leadership and communication skills, with a proven track record of leading and mentoring cross-functional teams to deliver high-quality products on time and within budget.
 
 I'm currently working with,
 
 -   React (TS)
 -   NodeJS
--   Flask (Python)
--   HTML/SCSS
--   WebSockets
+-   Python
+-   AWS services
+-   AI, ML, DL
 -   GraphQL

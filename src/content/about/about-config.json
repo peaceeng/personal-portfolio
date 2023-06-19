@@ -2,99 +2,84 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Indiana University",
-            "degree": "Master of Science in Computer Science",
-            "duration": "Aug 2019 - May 2021",
+            "school": "Hong Kong University",
+            "degree": "Bachelor's Degree in Computer Science",
+            "duration": "Aug 2011 - Aug 2015",
             "content": [
-                "GPA: 4/4",
+                "GPA: 3.7",
                 "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
-            ]
-        },
-        {
-            "id": "edu-2",
-            "school": "Manipal University",
-            "degree": "Bachelors in Computer Engineering",
-            "duration": "Aug 2015 - Jul 2019",
-            "content": [
-                "GPA: 8/10",
-                "Courses: Data Structures, OOP, Algorithms, Software Engineering, Computer Networks, Artificial Intelligence"
             ]
         }
     ],
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Reputation",
-            "position": "Software Engineer (Frontend)",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "Toptal",
+            "position": "Senior Fullstack Engineer",
+            "duration": "Apr 2020 - Present",
             "description": [
-                "Revamping the current report generation framework using React, that aggregates data from 30 modules to support an interactive cartesian system.​",
-                "Integrated user activity data from BigQuery into a custom tailored dashboard available to 10000+ clients.",
-                "Spearheaded the work on multiple reports for 5 priority clients to provide additional functionalities."
+                "Utilized data visualization tools such as Three.js to improve customer understanding of complex 3D design models by 20%.",
+                "Achieved customer satisfaction of 80% architecting CMS using D3.js.",
+                "Reduced server costs by 50% by utilizing advanced knowledge of microservices architecture on AWS and combined suitable balance of Lambda and EC2.",
+                "Improved scalability and developer experience by converting the base from PHP, Yii to React + Typescript.",
+                "Implemented Jest, and Cypress in TDD, achieving a test coverage of 90%.",
+                "Led the team of 5 engineers and conducted 2+ reviews daily to ensure reliable and high quality coding practices resulting in a 30% reduction in bugs and overall improvement in cOde quality."
             ]
         },
         {
             "id": "exp-2",
-            "company": "CNS (NIH), Indiana University",
-            "position": "Software Engineer",
-            "duration": "Jun 2020 - Jun 2021",
+            "company": "XYZ E-learning",
+            "position": "Fullstack Engineer",
+            "duration": "Apr 2017 - Mar 2020",
             "description": [
-                "Developed state of the art visualization tools for researchers and doctors to envision large biological datasets using ​Angular 11​, Node & Vega.​",
-                "Devised an algorithm to compute statistics that highlight anomalies in the data and displayed them on an intuitive interface.",
-                "Created detailed UX flows, experience maps, wire-frames and conducted interviews across various biological consortia to enhance user experience."
+                "Implemented a notification system using AWS Lambda, SNS, and SES for automated delivery alerts and product recommendations, resulting in a 19% increase in customer satisfaction and a 15% boost in repeat purchases.",
+                "Increased user engagement by 125% by establishing a new advertising and leaderboard page with Next.js, resulting in a highly positive user experience.",
+                "Built a Stripe payment processing and inventory management microservice utilizing Node.js and AWS Lambda, reducing payment processing time by 30% and increasing successful transactions by 20%.",
+                "Mentored junior engineers in an effective manner, cultivating their understanding of software engineering principles."
             ]
         },
         {
             "id": "exp-3",
-            "company": "Skylark Drones",
-            "position": "Software Engineer Intern",
-            "duration": "Jan 2019 - Jun 2019",
+            "company": "Inforonics Global Services LLC",
+            "position": "Frontend Engineer",
+            "duration": "Sep 2015 - Mar 2017",
             "description": [
-                "Developed a web app for mission planning, control and execution using Vue & Flask, thereby improving onside project performance by 22%.​",
-                "Designed an icon set for various functionalities using ​Illustrator​, which improved usability by 20%."
+                "Built pixel‑perfect, mobile‑first, and interactive components resulting in a 35% increase in user satisfaction.",
+                "Implemented complex frontend features such as optimizing performance resulting in a 30% improvement in website loading time and a 15% increase in accessibility compliance score.",
+                "Demonstrated strong problem‑solving skills and the ability to quickly identify and resolve technical issues in a team setting, resulting in a 20% reduction in post‑release bugs.",
+                "Communicated technical concepts and project status updates clearly and effectively to non‑technical stakeholders, resulting in a 15% increase in stakeholder satisfaction."
             ]
         }
     ],
     "skills": [
         {
             "title": "Programming",
-            "tools": [
-                "TypeScript",
-                "JavaScript",
-                "Python",
-                "C/C++",
-                "Java",
-                "NoSQL",
-                "SQL",
-                "Shell",
-                "React Native",
-                "Vega (D3.js)"
-            ]
+            "tools": ["TypeScript", "JavaScript", "Python", "C/C++", "Java", "NoSQL", "SQL", "React Native", "D3.js"]
         },
         {
-            "title": "Web",
-            "tools": ["React", "Angular 11", "Vue", "NodeJS", "Flask", "Redux", "NGXS", "HTML/CSS", "OAuth", "i18n"]
+            "title": "Frontend",
+            "tools": ["React", "Angular 11", "Vue"]
         },
         {
-            "title": "Databases",
-            "tools": ["MongoDB", "Redis", "MySQL", "Firebase"]
+            "title": "Backend",
+            "tools": ["Node.js", "Python", "Java", "Go"]
         },
 
         {
-            "title": "OS & Tools",
-            "tools": ["MacOS", "Linux", "Git", "Agile (Scrum)", "MVC", "Jenkins", "Heroku", "Docker", "Kubernetes"]
+            "title": "AWS services",
+            "tools": ["AWS Lambda", "EC2", "S3", "DynamoDB"]
         },
         {
-            "title": "Design & Research",
-            "tools": [
-                "Surveys",
-                "Interviews",
-                "User Research",
-                "Design Strategy",
-                "Experience Mapping",
-                "Adobe XD",
-                "Illustrator"
-            ]
+            "title": "Deploy",
+            "tools": ["CI/CD pipeline", "Github Actions", "Jenkins"]
+        },
+        {
+            "title": "Containerization",
+            "tools": ["Docker", "Kubernetes"]
+        },
+        {
+            "title": "Other",
+            "tools": ["Artificial Intelligence", "Machine Learning"]
         }
     ],
     "blog": [
