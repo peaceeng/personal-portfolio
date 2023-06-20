@@ -14,7 +14,7 @@
         "demo": "https://www.beycome.com/",
         "tags": ["Angular 11", "TypeScript", "NodeJS", "NGXS", "Vega", "TravisCI", "Open Source"],
         "description": "Beycome is an online real estate platform that allows homeowners to sell or rent their properties without the assistance of a traditional real estate agent.",
-        "readMore": "https://hrishikeshpaul.medium.com/asct-b-reporter-a-visualization-tool-d4dd29de97d8",
+        "readMore": "",
         "image": "/assets/featured-projects/beycome.webp",
         "jpg": "/assets/featured-projects/beycome.jpeg"
     }
