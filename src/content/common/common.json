@@ -10,21 +10,21 @@
     "audioFile": "/assets/pro.mp4",
     "cssVarPrefix": "hp",
     "email": "jhood.robin.eng@gmail.com",
-    "linkedin": "https://www.linkedin.com/in/hrishikeshpaul/",
-    "github": "https://github.com/hrishikeshpaul",
-    "resume": "https://docs.google.com/viewer?url=https://docs.google.com/document/d/1s3G7PiPHlK3Ett_W-WUU01GQnsggiLrWZB3IiMAgBEk/export?format=pdf",
+    "linkedin": "",
+    "github": "",
+    "resume": "https://drive.google.com/file/d/1MB6taHR0Dt45LmgGblNLP5wkJUF9rMEf/view",
     "socials": [
         {
             "type": "linkedin",
-            "link": "https://www.linkedin.com/in/hrishikeshpaul/"
+            "link": ""
         },
         {
             "type": "github",
-            "link": "https://github.com/hrishikeshpaul"
+            "link": ""
         },
         {
             "type": "mail",
-            "link": "mailto:hrishikeshpaul12@gmail.com"
+            "link": "mailto:jhood.robin.eng@gmail.com"
         }
     ]
 }
