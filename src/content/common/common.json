@@ -9,22 +9,22 @@
     "pronunciation": "/dʒeɪmz hʊd/",
     "audioFile": "/assets/pro.mp4",
     "cssVarPrefix": "jh",
-    "email": "jhood.robin.eng@gmail.com",
+    "email": "james.peace.eng@outlook.com",
     "linkedin": "",
     "github": "",
     "resume": "https://www.canva.com/design/DAFnlJitkuQ/hhjAcf-FB3BsWNgmCTcThw/view?utm_content=DAFnlJitkuQ&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink",
     "socials": [
         {
             "type": "linkedin",
-            "link": ""
+            "link": "https://www.linkedin.com/in/james-lim-1b692696/"
         },
         {
             "type": "github",
-            "link": ""
+            "link": "https://www.github.com/peaceeng"
         },
         {
             "type": "mail",
-            "link": "mailto:jhood.robin.eng@gmail.com"
+            "link": "mailto:james.peace.eng@outlook.com"
         }
     ]
 }
