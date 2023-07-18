@@ -2,11 +2,11 @@
     "educations": [
         {
             "id": "edu-1",
-            "school": "Hong Kong University",
+            "school": "The Hong Kong University of Science and Technology",
             "degree": "Bachelor's Degree in Computer Science",
             "duration": "Aug 2011 - Aug 2015",
             "content": [
-                "GPA: 3.7",
+                "GPA: 3.8",
                 "Courses: Software Engineering, Distributed Systems, Operating Systems, Advanced Algorithms, Experience Design"
             ]
         }
@@ -14,51 +14,61 @@
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Toptal",
+            "company": "Alten Technology USA",
             "position": "Senior Fullstack Engineer",
-            "duration": "Apr 2020 - Present",
+            "duration": "Mar 2020 - Present",
             "description": [
-                "Utilized data visualization tools such as Three.js to improve customer understanding of complex 3D design models by 20%.",
-                "Achieved customer satisfaction of 80% architecting CMS using D3.js.",
-                "Reduced server costs by 50% by utilizing advanced knowledge of microservices architecture on AWS and combined suitable balance of Lambda and EC2.",
-                "Improved scalability and developer experience by converting the base from PHP, Yii to React + Typescript.",
-                "Implemented Jest, and Cypress in TDD, achieving a test coverage of 90%.",
-                "Led the team of 5 engineers and conducted 2+ reviews daily to ensure reliable and high quality coding practices resulting in a 30% reduction in bugs and overall improvement in cOde quality."
+                "Implemented a notification system using AWS services, resulting in a 19% increase in customer satisfaction.",
+                "Achieved 80% augment of customer’s analysis architecting CMS using D3.js.",
+                "Leveraged web scrapping to ensure the minimum progress by 10%.",
+                "Executed a microservices architecture using Docker and Kubernetes to improve the scalability and maintainability of a complex web application by 120%.",
+                "Realized Jest, and Cypress in TDD, achieving a test coverage of 90%.",
+                "Led the team of 5 engineers and conducted +2 reviews daily to ensure reliable and high-quality coding practices resulting in a 30% reduction in bugs and overall improvement in code quality."
             ]
         },
         {
             "id": "exp-2",
-            "company": "XYZ E-learning",
-            "position": "Fullstack Engineer",
-            "duration": "Apr 2017 - Mar 2020",
+            "company": "Toptal",
+            "position": "Senior Fullstack Engineer",
+            "duration": "Mar 2017 - Mar 2020",
             "description": [
-                "Implemented a notification system using AWS Lambda, SNS, and SES for automated delivery alerts and product recommendations, resulting in a 19% increase in customer satisfaction and a 15% boost in repeat purchases.",
-                "Increased user engagement by 125% by establishing a new advertising and leaderboard page with Next.js, resulting in a highly positive user experience.",
+                "Developed a highly scalable e-commerce platform that can handle 1M transactions per day using React, Node.js, Express.js, MongoDB, Redis, and AWS.",
+                "Improved customer understanding of complex3D models by 20% using Three.js.",
                 "Built a Stripe payment processing and inventory management microservice utilizing Node.js and AWS Lambda, reducing payment processing time by 30% and increasing successful transactions by 20%.",
-                "Mentored junior engineers in an effective manner, cultivating their understanding of software engineering principles."
+                "Demonstrated strong problem-solving skills and the ability to resolve technical issues in a team setting, resulting in a 20% reduction in post-release bugs."
             ]
         },
         {
             "id": "exp-3",
-            "company": "Inforonics Global Services LLC",
-            "position": "Frontend Engineer",
-            "duration": "Sep 2015 - Mar 2017",
+            "company": "Netradyne",
+            "position": "Fullstack Engineer",
+            "duration": "Jun 2015 - Mar 2017",
             "description": [
-                "Built pixel‑perfect, mobile‑first, and interactive components resulting in a 35% increase in user satisfaction.",
-                "Implemented complex frontend features such as optimizing performance resulting in a 30% improvement in website loading time and a 15% increase in accessibility compliance score.",
-                "Demonstrated strong problem‑solving skills and the ability to quickly identify and resolve technical issues in a team setting, resulting in a 20% reduction in post‑release bugs.",
-                "Communicated technical concepts and project status updates clearly and effectively to non‑technical stakeholders, resulting in a 15% increase in stakeholder satisfaction."
+                "Built pixel-perfect, mobile-first, and interactive components resulting in a 35% increase in user satisfaction.",
+                "Applied complex frontend features such as optimizing performance resulting in a 30% improvement in website loading time and a 15% increase in accessibility compliance score.",
+                "Communicated technical concepts and project status updates clearly and effectively to non-technical stakeholders, resulting in a 15% increase in stakeholder satisfaction."
             ]
         }
     ],
     "skills": [
         {
             "title": "Programming",
-            "tools": ["TypeScript", "JavaScript", "Python", "C/C++", "Java", "NoSQL", "SQL", "React Native", "D3.js"]
+            "tools": [
+                "TypeScript",
+                "JavaScript",
+                "Python",
+                "C/C++",
+                "C#",
+                "Java",
+                "NoSQL",
+                "SQL",
+                "React Native",
+                "D3.js"
+            ]
         },
         {
             "title": "Frontend",
-            "tools": ["React", "Angular 11", "Vue"]
+            "tools": ["React", "Angular 11", "Vue", "Next"]
         },
         {
             "title": "Backend",
