@@ -1,6 +1,18 @@
 import { FC } from "react";
 
-import { Center, Container, Heading, Image, HStack, Stack, Flex, Box, IconButton, Button } from "@chakra-ui/react";
+import {
+    Center,
+    Container,
+    Heading,
+    Image,
+    HStack,
+    Stack,
+    Flex,
+    Box,
+    IconButton,
+    Button,
+    useColorMode,
+} from "@chakra-ui/react";
 
 import { Content, configs, useContent, MarkdownFile } from "shared/content/Content";
 import { Socials } from "shared/socials/Socials";
@@ -9,6 +21,7 @@ import { ChevronDownIcon } from "utils/Icons";
 
 export const Landing: FC = () => {
     const content = useContent(MarkdownFile.Landing);
+    const { colorMode } = useColorMode();
 
     const scrollIntoView = () => {
         const featuredHeader = document.getElementById(WorkPageId);
@@ -49,7 +62,11 @@ export const Landing: FC = () => {
                         <picture>
                             <source type="image/webp" src={configs.landing.picture}></source>
                             <source type="image/jpeg" src={configs.landing.jpg}></source>
-                            <Image borderRadius="xl" src={configs.landing.jpg} alt={`face-cover-image`} />
+                            <Image
+                                borderRadius="xl"
+                                src={`${configs.landing.jpg}${colorMode}.jpg`}
+                                alt={`face-cover-image`}
+                            />
                         </picture>
                     </Container>
                 </HStack>
