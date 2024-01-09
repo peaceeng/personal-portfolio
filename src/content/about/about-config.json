@@ -14,16 +14,21 @@
     "experiences": [
         {
             "id": "exp-1",
-            "company": "Alten Technology USA",
+            "company": "Kforce",
             "position": "Senior Fullstack Engineer",
             "duration": "Mar 2020 - Present",
             "description": [
-                "Implemented a notification system using AWS services, resulting in a 19% increase in customer satisfaction.",
-                "Achieved 80% augment of customer’s analysis architecting CMS using D3.js.",
-                "Leveraged web scrapping to ensure the minimum progress by 10%.",
-                "Executed a microservices architecture using Docker and Kubernetes to improve the scalability and maintainability of a complex web application by 120%.",
-                "Realized Jest, and Cypress in TDD, achieving a test coverage of 90%.",
-                "Led the team of 5 engineers and conducted +2 reviews daily to ensure reliable and high-quality coding practices resulting in a 30% reduction in bugs and overall improvement in code quality."
+                "Built pixel-perfect, responsive, user-friendly websites using React, Next.js, React Hooks, Redux, TypeScript to increase user experience by 20%.",
+                "Improved efficiency of the platform to 150% by building microservices serverless architecture with Node.js, TypeScript, AWS Lambda, EC2, DynamoDB, SNS, SQS, API Gateway and AppSync.",
+                "Implemented smooth connection between Figma and Amplify, Amplify and Next.js so that reduced efforts 50% to adapt style with CSS to React components.",
+                "Transitioned WordPress into modern architecture with microservices using React, Node.js and AWS.",
+                "Increased API security 30% by implementing authentication providers like Oauth, Okta, JWT and AWS Cognito.",
+                "Took ownership of the entire project and consistently identified and resolved performance bottlenecks and critical bugs utilizing New Relic, DataDog and AWS CloudWatch.",
+                "Leveraged web scrapping libraries including Selenium and Puppeteer to automate the progress and decrease the manual progress by 70%.",
+                "Orchestrated seamless application deployments through cutting-edge techniques such as Kubernetes, Docker and AWS EKS by harnessing the power of containerization and accelerated deployment speed preserving the impeccable level of availability.",
+                "Utilized Python locust for load testing to ensure the successful working without laggy between the cache and master DB.",
+                "Cooperated closely with cross-functional teams, including product managers, UI/UX designers, and QA engineers, to gather requirements, prioritize features, and deliver a robust and visually appealing online shopping platform.",
+                "Led a team of 5 engineers and provided mentorship to junior developers by offering technical guidance, conducting +4 reviews every day, and assisting with the development of a complex software application’s backend."
             ]
         },
         {
@@ -32,10 +37,11 @@
             "position": "Senior Fullstack Engineer",
             "duration": "Mar 2017 - Mar 2020",
             "description": [
-                "Developed a highly scalable e-commerce platform that can handle 1M transactions per day using React, Node.js, Express.js, MongoDB, Redis, and AWS.",
-                "Improved customer understanding of complex3D models by 20% using Three.js.",
-                "Built a Stripe payment processing and inventory management microservice utilizing Node.js and AWS Lambda, reducing payment processing time by 30% and increasing successful transactions by 20%.",
-                "Demonstrated strong problem-solving skills and the ability to resolve technical issues in a team setting, resulting in a 20% reduction in post-release bugs."
+                "Developed responsive, cross-browser-compatible, high-performance web pages & and mobile screens using React, React Native, SASS, and Material UI.",
+                "Innovated a new user interface using stunning 3D models that enhanced the overall shopping experience and increased user engagement by 19% based on Three.js.",
+                "Achieved 80% augment of customer’s analysis architecting admin dashboard using data visualization tools like D3.js.",
+                "Wrote comprehensive tests, including unit testing using Jest + Enzyme, and end-to-end testing using Cypress, achieving 80% test coverage.",
+                "Played a key role in bridging communication gaps between offshore development teams and crossfunctional departments, such as product, design, and marketing, ensuring the seamless and timely delivery of numerous high-impact features."
             ]
         },
         {
@@ -44,9 +50,9 @@
             "position": "Fullstack Engineer",
             "duration": "Jun 2015 - Mar 2017",
             "description": [
-                "Built pixel-perfect, mobile-first, and interactive components resulting in a 35% increase in user satisfaction.",
-                "Applied complex frontend features such as optimizing performance resulting in a 30% improvement in website loading time and a 15% increase in accessibility compliance score.",
-                "Communicated technical concepts and project status updates clearly and effectively to non-technical stakeholders, resulting in a 15% increase in stakeholder satisfaction."
+                "Assisted in implementing pixel-perfect, mobile-first, responsive user interfaces, resulting in a 15% increase in mobile user engagement.",
+                "Partnered with design and QA teams to develop visually appealing UI elements using JavaScript, jQuery, HTML, and CSS.",
+                "Utilized SVG, Canvas and CSS animations to implement particle effects on the frontend to increase user experience."
             ]
         }
     ],
