@@ -12,19 +12,14 @@
     "email": "jhood.robin.eng@gmail.com",
     "linkedin": "",
     "github": "https://www.github.com/peaceeng",
-    "resume": "https://drive.google.com/file/d/1BcREP3zDv4r-LnxLnl8AnTOe0oH-s6uK/view?usp=drive_link",
     "socials": [
-        {
-            "type": "linkedin",
-            "link": ""
-        },
         {
             "type": "github",
             "link": "https://www.github.com/peaceeng"
         },
         {
             "type": "mail",
-            "link": "mailto:jhood.robin.eng@gmail.com"
+            "link": "mailto:willie.brazell@outlook.com"
         }
     ]
 }
