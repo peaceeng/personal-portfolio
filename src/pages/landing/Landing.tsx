@@ -55,14 +55,12 @@ export const Landing: FC = () => {
                 </HStack>
             </Center>
             <Flex justifyContent="center" data-aos="fade" data-aos-delay="1400">
-                <Button
-                    as={IconButton}
+                <IconButton
                     fontSize="3xl"
-                    variant="icon"
                     aria-label="down arrow button"
                     icon={<ChevronDownIcon />}
                     onClick={scrollIntoView}
-                ></Button>
+                ></IconButton>
             </Flex>
         </Box>
     );
