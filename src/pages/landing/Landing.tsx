@@ -52,23 +52,6 @@ export const Landing: FC = () => {
 
                         <Socials delay={1000} />
                     </Stack>
-                    <Container
-                        alignItems="center"
-                        flex="0.4"
-                        display={{ base: "none", lg: "block" }}
-                        data-aos="fade-up"
-                        data-aos-delay="400"
-                    >
-                        <picture>
-                            <source type="image/webp" src={configs.landing.picture}></source>
-                            <source type="image/jpeg" src={configs.landing.jpg}></source>
-                            <Image
-                                borderRadius="xl"
-                                src={`${configs.landing.jpg}${colorMode}.jpg`}
-                                alt={`face-cover-image`}
-                            />
-                        </picture>
-                    </Container>
                 </HStack>
             </Center>
             <Flex justifyContent="center" data-aos="fade" data-aos-delay="1400">
