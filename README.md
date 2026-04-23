@@ -60,4 +60,4 @@ All the images are in `public/assets`.
 ## License
 
 -   **[MIT license](http://opensource.org/licenses/mit-license.php)**
--   Copyright 2022 © James Hood
+-   Copyright 2022 © Willie Brazell

@@ -1,14 +1,14 @@
 {
-    "name": "James Hood",
+    "name": "Willie Brazell",
     "logoType": {
-        "mobile": "JH",
-        "desktop": "James Hood"
+        "mobile": "WB",
+        "desktop": "Willie Brazell"
     },
-    "mainPicture": "/assets/JH.png",
-    "mainPictureJPG": "/assets/JH.png",
-    "pronunciation": "/dʒeɪmz hʊd/",
+    "mainPicture": "/assets/WB.png",
+    "mainPictureJPG": "/assets/WB.png",
+    "pronunciation": "/ˈwɪli brəˈzɛl/",
     "audioFile": "/assets/pro.mp4",
-    "cssVarPrefix": "jh",
+    "cssVarPrefix": "wb",
     "email": "jhood.robin.eng@gmail.com",
     "linkedin": "",
     "github": "https://www.github.com/peaceeng",
