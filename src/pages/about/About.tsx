@@ -1,6 +1,6 @@
 import { FC } from "react";
 
-import { Box, Flex, Heading, Text, Image, Button, IconButton } from "@chakra-ui/react";
+import { Box, Flex, Heading, Text, Button, IconButton } from "@chakra-ui/react";
 
 import { configs, Content, MarkdownFile, useContent } from "shared/content/Content";
 import { Education } from "pages/about/education/Education";

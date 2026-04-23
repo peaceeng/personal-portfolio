@@ -2,16 +2,12 @@ import { FC } from "react";
 
 import {
     Center,
-    Container,
     Heading,
-    Image,
     HStack,
     Stack,
     Flex,
     Box,
     IconButton,
-    Button,
-    useColorMode,
 } from "@chakra-ui/react";
 
 import { Content, configs, useContent, MarkdownFile } from "shared/content/Content";
@@ -21,7 +17,6 @@ import { ChevronDownIcon } from "utils/Icons";
 
 export const Landing: FC = () => {
     const content = useContent(MarkdownFile.Landing);
-    const { colorMode } = useColorMode();
 
     const scrollIntoView = () => {
         const featuredHeader = document.getElementById(WorkPageId);
